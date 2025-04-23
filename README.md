@@ -1,16 +1,32 @@
-## Hi there 👋
+### 🌟 Luana aqui!
 
-<!--
-**LuRomualdo/LuRomualdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação 
 
-Here are some ideas to get you started:
+👩‍💻 Foco em Desenvolvimento Backend.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Brasil | 💻 Remoto.
+
+---
+
+### 💡 Habilidades
+- **Linguagens**: Java, JS, HTML e CSS
+  
+- **Ferramentas**: Git, GitHub, VSCode, IntelliJ, MySQL
+  
+- **Conceitos**: Lógica de programação e sistemas operacionais.
+  
+- **Foco atual**: Backend
+
+---
+
+### 📌 Projetos em Destaque
+- Em breve vou destacar aqui meus projetos em desenvolvimento!
+
+---
+
+### 📫 Entre em contato
+- Email: luanaromualdodesouza@gmail.com
+
+---
+
+Obrigada por visitar meu perfil! :)
